@@ -1,0 +1,15 @@
+# data & heavy artifacts
+**/data/
+*.pt
+*.pth
+*.npy
+*.h5ad
+*.ckpt
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# misc
+.DS_Store
+node_modules/
