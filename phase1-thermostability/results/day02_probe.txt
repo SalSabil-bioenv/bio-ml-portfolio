@@ -1,0 +1,1 @@
+ESM2-35M + Ridge | human_cell test: spearman=0.668 rmse=4.31 degC | alpha=4.3e+02

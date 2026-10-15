@@ -1,0 +1,11 @@
+{
+  "device": "cpu",
+  "model": "facebook/esm2_t12_35M_UR50D",
+  "seq_per_s": 1.53,
+  "tok_per_s": 851,
+  "projected_min": {
+    "human_cell": 74.7,
+    "human": 106.8,
+    "mixed_split": 263.6
+  }
+}
